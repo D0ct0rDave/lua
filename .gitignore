@@ -4,12 +4,14 @@
 *.o
 *.a
 
+build/*
+lib/*
 manual/manual.html
 
-testes/time.txt
-testes/time-debug.txt
+src/testes/time.txt
+src/testes/time-debug.txt
 
-testes/libs/all
+src/testes/libs/all
 
 temp
 lua
